@@ -24,7 +24,7 @@
 
 <br>
 
-	usage: genomic_downloader.py
+	usage: python3 genomic_downloader.py
                              -target_gene_name
                              -1st_downstream_flanking_gene_name
                              -2nd_downstream_flanking_gene_name
