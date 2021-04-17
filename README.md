@@ -22,6 +22,8 @@
 + the output path to a .fasta file that will contain  each species corresponding downloaded sequence (-sequences_content_output_file_path); 
 + the output path to a .csv file that will contain metadata regarding each downloaded sequence, including, among others, from left to right, the scientific and common name of the correponding species, the corresponding genomic sequence ID, the coordinates of the corresponding genomic sequence ID that define the genomic portion that was extracted, the ID of the corresponding genome assembly, and the used method for defining the extracted sequence (either the Annotated Gene-Based Method or the Synteny Conservation-Based Method).
 
+<br>
+
 	usage: genomic_downloader.py
                              -target_gene_name
                              -1st_downstream_flanking_gene_name
