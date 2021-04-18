@@ -20,7 +20,7 @@
 + the names of three downstream and upstream target gene flanking genes, so that in the absence of the target gene annotation in a given species genome, the script automatically downloads the most likely genomic sequence region for the target gene to be physically located (according to the principle of synteny conservation across evolution);
 + the input path to a .txt file containing the list of the species of interest (scientific name, separated by lines) (-target_species_list_file_path);
 + the output path to a .fasta file that will contain  each species corresponding downloaded sequence (-sequences_content_output_file_path); 
-+ the output path to a .csv file that will contain metadata regarding each downloaded sequence, including, among others, from left to right, the scientific and common name of the correponding species, the corresponding genomic sequence ID, the coordinates of the corresponding genomic sequence ID that define the genomic portion that was extracted, the ID of the corresponding genome assembly, and the used method for defining the extracted sequence (either the Annotated Gene-Based Method or the Synteny Conservation-Based Method).
++ the output path to a .csv file that will contain metadata regarding each downloaded sequence, including, among others, from left to right, the scientific and common name of the corresponding species, the corresponding genomic sequence ID, the coordinates of the corresponding genomic sequence ID that define the genomic portion that was extracted, the ID of the corresponding genome assembly, and the used method for defining the extracted sequence (either the Annotated Gene-Based Method or the Synteny Conservation-Based Method).
 
 <br>
 
@@ -44,7 +44,7 @@ Download the script available at `script/genomic_sequence_downloader.py`. Try th
 
 	python3 genomic_downloader.py RAG1 TRAF6 PRRR5L COMMD9 IFTAP LRRC4C API5 input_species.txt sequences_output.fasta sequences_data.csv
 			
-Using as `input` the above-mentioned arguments, as well as the input_species.txt file found at the `example` folder, the script will generate the output files (`sequences_output.fasta` and `sequences_data.csv`) found within the same folder.
+Using as `input` the above-mentioned arguments, as well as the input_species.txt file found in the `example` folder, the script will generate the output files (`sequences_output.fasta` and `sequences_data.csv`) found within the same folder.
 
 <br>
 
