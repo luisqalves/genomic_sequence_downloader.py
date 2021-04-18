@@ -44,7 +44,7 @@ Download the script available at `script/genomic_sequence_downloader.py`. Try th
 
 	python3 genomic_downloader.py RAG1 TRAF6 PRRR5L COMMD9 IFTAP LRRC4C API5 input_species.txt sequences_output.fasta sequences_data.csv
 			
-Using as `input` the above-mentioned arguments, as well as the input_species.txt file found in the `example` folder, the script will generate the output files (`sequences_output.fasta` and `sequences_data.csv`) found within the same folder.
+Using as `input` the above-mentioned arguments, as well as the `input_species.txt` file found in the `example` folder, the script should generate the output files found within the same folder (`sequences_output.fasta` and `sequences_data.csv`) .
 
 <br>
 
