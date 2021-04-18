@@ -9,7 +9,7 @@
 ### Dependencies
 
 + Python 3
-+ [NCBI Entrez Programming Utilities] (https://www.ncbi.nlm.nih.gov/home/tools/) 
++ [NCBI Entrez Programming Utilities](https://www.ncbi.nlm.nih.gov/home/tools/) 
 
 <br>
 
