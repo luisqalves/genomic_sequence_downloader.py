@@ -98,7 +98,7 @@
 98,RAG1,Desmodus rotundus,common vampire bat,NW_020091348.1,8191460,8184323,GCF_002940915.1,Annotated Gene-Based Method
 99,RAG1,Echinops telfairi,small Madagascar hedgehog,NW_022103958.1,15063922,15056797,GCF_000313985.2,Annotated Gene-Based Method
 100,RAG1,Elephantulus edwardii,Cape elephant shrew,NW_006399779.1,15728158,15740703,GCF_000299155.1,Annotated Gene-Based Method
-101,Enhydra lutris kenyoni, Failed.  At least one of the RAG1 flanking genes is not annotated in this species genome.,,,
+101,Enhydra lutris kenyoni, Failed.  At least one of the RAG1 flanking genes is not annotated in this species genome.,,,,,,
 102,RAG1,Eptesicus fuscus,big brown bat,NW_007370690.1,7555323,7542664,GCF_000308155.1,Annotated Gene-Based Method
 103,RAG1,Equus asinus,ass,NW_014638040.1,115340,100230,GCF_001305755.1,Annotated Gene-Based Method
 104,RAG1,Equus caballus,horse,NC_009155.3,3012910,3025383,GCF_002863925.1,Annotated Gene-Based Method
