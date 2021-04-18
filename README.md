@@ -16,7 +16,7 @@
 ### Usage 
 
 `genomic_sequence_downloader.py` requires a set of 10 arguments: 
-+ the name of the target gene (-target_gene_name); 
++ the name of the gene of interest (-target_gene_name); 
 + the names of three downstream and upstream target gene flanking genes, so that in the absence of the target gene annotation in a given species genome, the script automatically downloads the most likely genomic sequence region for the target gene to be physically located (according to the principle of synteny conservation across evolution);
 + the input path to a .txt file containing the list of the species of interest (scientific name, separated by lines) (-target_species_list_file_path);
 + the output path to a .fasta file that will contain  each species corresponding downloaded sequence (-sequences_content_output_file_path); 
