@@ -2,7 +2,7 @@
 
 <br>
 
-`genomic_sequence_downloader.py` is a Python script that allows for downloading portions of genomic sequences underlying a given target gene annotation across multiple species with annotated genomes available at NCBI (FASTA format). This script uses, on its bases, NCBI Entrez APIs, and makes use of the latest annotation version of each target species genome.
+`genomic_sequence_downloader.py` is a Python script that allows for downloading portions of genomic sequences underlying a given target gene annotation across multiple species with annotated genomes available at NCBI (FASTA format). This script uses, on its basis, NCBI Entrez APIs, making use of the latest annotation version of each target species genome.
 
 <br>
 
