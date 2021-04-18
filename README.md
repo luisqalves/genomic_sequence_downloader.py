@@ -40,7 +40,7 @@
 
 ### Example
 
-Download the script available at `script/genomic_sequence_downloader.py`. Try the following example that is targeted to the RAG1 protein-coding gene:
+Download the script available at `script/genomic_sequence_downloader.py`. Try the following example that is targeted to the RAG1 protein-coding gene and a set of 160 mammalian species:
 
 	python3 genomic_downloader.py RAG1 TRAF6 PRRR5L COMMD9 IFTAP LRRC4C API5 input_species.txt sequences_output.fasta sequences_data.csv
 			
